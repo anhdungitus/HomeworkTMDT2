@@ -2,7 +2,7 @@
 
 **Name of your app** Trang web cho phép người dùng chia sẻ và cập nhật trạng thái. Due Date: 24:00 11/10/2016
 
-Danh sách sinh viên: **Your Name Here**
+Danh sách sinh viên: ** 1312092 - Nguyễn Hoàng Anh Dũng**
 
 URL: **Insert your Heroku URL here**
 
