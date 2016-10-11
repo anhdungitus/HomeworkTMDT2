@@ -48,5 +48,6 @@ gem 'carrierwave', '>= 1.0.0.beta', '< 2.0'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'acts_as_commentable'
 gem "acts_as_follower"
+gem 'public_activity'
 
 
